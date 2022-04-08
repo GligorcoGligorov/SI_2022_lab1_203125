@@ -1,0 +1,48 @@
+4. git clone https://github.com/GligorcoGligorov/SI_2022_lab1_203125.git
+5. git add shopping_list.txt i git commit -m "Add 5 items to the shopping list”
+6. git commit -a -m "Add quantities to the items."
+7. git checkout -b branch1, git checkout master, git checkout -b branch2
+8. 
+    Add quantities to the items.
+
+    Add 5 items to the shopping list
+
+    Update README.md
+
+    Initial commit
+
+9. git push origin master, git push origin branch1, git push origin branch2.
+10. git checkout branch1
+11. git commit -a -m "Change quantity of item #5"
+12. git checkout master
+13. git commit -a -m "Change quantity of item #2"
+14. git push origin master, git push origin branch1, git push origin branch2.
+15.git checkout branch2
+16. git commit -a -m "Modify item #4”.
+17. 
+    Modify item #4
+
+    Add quantities to the items.
+
+    Add 5 items to the shopping list
+
+    Update README.md
+
+    Initial commit
+
+18. git commit --amend -m "Modify item #4 and add item #6"
+19. 
+    Modify item #4 and add item #6
+
+    Add quantities to the items.
+
+    Add 5 items to the shopping list
+
+    Update README.md
+
+    Initial commit
+
+20. git merge branch1, nemase konflikt se izvrsi spojjuvanjeto so rekurzivno
+21. git merge branch2, imase konflikt , go resivme so toa sto odlucivme da ostanat samo produktite od master grankata i izvrsuvanjeto bese rekurzivno.
+22. git add 203125.txt, git commit -m "Add docs"
+23. git push origin master, git push origin branch1, git push origin branch2.
