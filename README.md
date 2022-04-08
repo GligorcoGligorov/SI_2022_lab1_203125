@@ -1,1 +1,1 @@
-# SI_2022_lab1_203125
+# Gligorco Gligorov 203125
