@@ -3,3 +3,5 @@ Chips x3
 Mleko x5
 Sok x2
 Voda x5
+Leb x2
+
